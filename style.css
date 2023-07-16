@@ -1,0 +1,24 @@
+body{
+    font-family: Impact, sans-serif;
+}
+
+h1{
+    font-size: 80px;
+    font-weight: 900;
+}
+P{
+    font-size: 35PX;
+  
+}
+
+button {
+    width: 250px;
+    height: 80px;
+    background-color: blue;
+    color: white;
+   
+}
+
+button:hover{
+    background-color: green;
+}
